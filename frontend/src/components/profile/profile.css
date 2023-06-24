@@ -1,0 +1,23 @@
+.card-profile-stats img{
+    max-width: 86px;
+    border-radius: 50%;
+    border:1px solid #111;
+}
+.email{
+color: rebeccapurple;
+}
+.location{
+    color: rgb(237, 10, 10)
+}
+.mobile{
+    color: rgb(7, 84, 7);
+}
+.male{
+    color:rgba(141, 6, 6, 0.393)
+}
+.calendar{
+    color:rebeccapurple
+}
+.status{
+    color: rgb(13, 84, 13);
+}
